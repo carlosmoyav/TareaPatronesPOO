@@ -1,0 +1,11 @@
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/obj/Debug/netcoreapp3.0/ProrotypePattern.csprojAssemblyReference.cache
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/obj/Debug/netcoreapp3.0/ProrotypePattern.AssemblyInfoInputs.cache
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/obj/Debug/netcoreapp3.0/ProrotypePattern.AssemblyInfo.cs
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern.deps.json
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern.runtimeconfig.json
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern.runtimeconfig.dev.json
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern.dll
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/bin/Debug/netcoreapp3.0/ProrotypePattern.pdb
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/obj/Debug/netcoreapp3.0/ProrotypePattern.dll
+/Users/carlosmoya/Projects/ProrotypePattern/ProrotypePattern/obj/Debug/netcoreapp3.0/ProrotypePattern.pdb
